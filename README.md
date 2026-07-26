@@ -1,8 +1,8 @@
-# 🎯 Python Number Guessing Game
+#  Python Number Guessing Game
 
 A simple command-line number guessing game built using Python.
 
-## 📌 Features
+## Features
 
 - Random number generation
 - Input validation
@@ -10,18 +10,18 @@ A simple command-line number guessing game built using Python.
 - Unlimited attempts
 - Feedback ("Too High" / "Too Low")
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - random module
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 python main.py
 ```
 
-## 📷 Sample Output
+## Sample Output
 
 ```
 Guess The Number Between 1 - 100:
@@ -32,3 +32,8 @@ Too High!
 
 Congratulations! You guessed the number.
 ```
+## Author
+
+**Om Thakkar**
+
+GitHub: https://github.com/omthakkar228
